@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  sid: MyString
+  phone: MyString
+  status: MyString
+  attempt_no: 1
+  sid_created_at: MyString
+  test_caimpaign_id: 1
+
+two:
+  sid: MyString
+  phone: MyString
+  status: MyString
+  attempt_no: 1
+  sid_created_at: MyString
+  test_caimpaign_id: 1
